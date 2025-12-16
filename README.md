@@ -140,8 +140,8 @@
 
 | № | Компонент | Файлы |
 |---|-----------|-------|
-| **I** | **Требования** | [`Требования.md`](./UserStories.md) |
-| **II** | **Диаграмма последовательности** | [Диаграмма](./docs/sequenceDiagrams/LifeQueue.png)<br>![Диаграмма](./docs/sequenceDiagrams/LifeQueue.png) |
+| **I** | **Требования** | [`Требования.md`](./UseCaseTT.md) |
+| **II** | **Диаграмма последовательности** | [Диаграмма](./automoika-sequence-diagram.mmd)<br>![Диаграмма](./automoika-sequence-diagram.mmd) |
 | **III** | **ERD диаграмма** | ![ERD](./docs/ERD/carwash_H2O.svg) |
 | **IV** | **UseCase диаграмма** | ![UseCase](./docs/useCase/UML_UseCases.png) |
 | **V** | **User Story** | [`User_story.md`](./docs/userStory.md) |
