@@ -141,7 +141,7 @@
 | № | Компонент | Файлы |
 |---|-----------|-------|
 | **I** | **Требования** | [`Требования.md`](./treb.md) |
-| **II** | **Диаграмма последовательности** | [Диаграмма](./automoika-sequence-diagram.mmd)<br>![Диаграмма](.posled.png) |
+| **II** | **Диаграмма последовательности** | [Диаграмма](./automoika-sequence-diagram.mmd)<br>![Диаграмма](./posled.png) |
 | **III** | **ERD диаграмма** | ![ERD](./docs/ERD/carwash_H2O.svg) |
 | **IV** | **UseCase диаграмма** | ![UseCase](./docs/useCase/UML_UseCases.png) |
 | **V** | **User Story** | [`User_story.md`](./docs/userStory.md) |
