@@ -147,4 +147,6 @@
 | **V** | **User Story** | [`User_story.md`](./UserStories.md) |
 | **VI** | **User Story Mapping** | ![UserStory Mapping](./USM.png) |
 | **VII** | **Status Model** | ![Status Model](./statusmodel.png) |
-| **VIII** | **OpenAPI спецификация** | [`Open API`](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/WilhelmGans/autoH2O/main/docs/api-docs.json) |
+| **VIII** | **OpenAPI спецификация** | [`Open API`](openapi.yml) |
+| **IX** | **C4 part 1** | ![C4p1](openapi.yml) |
+| **IX** | **C4 part 2** | ![C4p2](openapi.yml) |
