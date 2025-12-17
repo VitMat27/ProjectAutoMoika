@@ -144,7 +144,7 @@
 | **II** | **Диаграмма последовательности** | [Диаграмма](./automoika-sequence-diagram.mmd)<br>![Диаграмма](./posled.png) |
 | **III** | **ERD диаграмма** | ![ERD](./erd.png) |
 | **IV** | **UseCase диаграмма** | ![UseCase](./usecase.png) |
-| **V** | **User Story** | [`User_story.md`](./docs/userStory.md) |
+| **V** | **User Story** | [`User_story.md`](./UserStories.md) |
 | **VI** | **User Story Mapping** | [`UserStory Mapping`](./docs/UserStoryMapping/User%20Story%20Mapping%202025-11-05-09-05.svg) |
 | **VII** | **Status Model** | ![Status Model](./docs/statusModel/model.png) |
 | **VIII** | **OpenAPI спецификация** | [`Open API`](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/WilhelmGans/autoH2O/main/docs/api-docs.json) |
