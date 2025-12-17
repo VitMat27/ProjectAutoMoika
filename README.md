@@ -146,5 +146,5 @@
 | **IV** | **UseCase диаграмма** | ![UseCase](./usecase.png) |
 | **V** | **User Story** | [`User_story.md`](./UserStories.md) |
 | **VI** | **User Story Mapping** | ![UserStory Mapping](./USM.png) |
-| **VII** | **Status Model** | ![Status Model](./docs/statusModel/model.png) |
+| **VII** | **Status Model** | ![Status Model](./statusmodel.png) |
 | **VIII** | **OpenAPI спецификация** | [`Open API`](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/WilhelmGans/autoH2O/main/docs/api-docs.json) |
