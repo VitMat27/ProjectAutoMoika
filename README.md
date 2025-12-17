@@ -143,7 +143,7 @@
 | **I** | **Требования** | [`Требования.md`](./treb.md) |
 | **II** | **Диаграмма последовательности** | [Диаграмма](./automoika-sequence-diagram.mmd)<br>![Диаграмма](./posled.png) |
 | **III** | **ERD диаграмма** | ![ERD](./erd.png) |
-| **IV** | **UseCase диаграмма** | ![UseCase](./docs/useCase/UML_UseCases.png) |
+| **IV** | **UseCase диаграмма** | ![UseCase](./usecase.png) |
 | **V** | **User Story** | [`User_story.md`](./docs/userStory.md) |
 | **VI** | **User Story Mapping** | [`UserStory Mapping`](./docs/UserStoryMapping/User%20Story%20Mapping%202025-11-05-09-05.svg) |
 | **VII** | **Status Model** | ![Status Model](./docs/statusModel/model.png) |
