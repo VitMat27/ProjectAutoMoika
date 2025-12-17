@@ -145,6 +145,6 @@
 | **III** | **ERD диаграмма** | ![ERD](./erd.png) |
 | **IV** | **UseCase диаграмма** | ![UseCase](./usecase.png) |
 | **V** | **User Story** | [`User_story.md`](./UserStories.md) |
-| **VI** | **User Story Mapping** | [`UserStory Mapping`](./User_Story_Mapping.unidraw) |
+| **VI** | **User Story Mapping** | [`UserStory Mapping`](./User_Story_Mapping.png) |
 | **VII** | **Status Model** | ![Status Model](./docs/statusModel/model.png) |
 | **VIII** | **OpenAPI спецификация** | [`Open API`](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/WilhelmGans/autoH2O/main/docs/api-docs.json) |
